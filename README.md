@@ -29,9 +29,9 @@ Then, just tapping on _"Search!!"_ will return the results.
 
 <p align="center">
   
-  <img width=300 src="https://user-images.githubusercontent.com/22641582/119631304-63141b80-be2d-11eb-8560-4ce6e23416fd.png">
-  <img width=300 src="https://user-images.githubusercontent.com/22641582/119634844-c05d9c00-be30-11eb-9cc6-86dd8ded2215.png">
-  <img width=300 src="https://user-images.githubusercontent.com/22641582/119635376-3feb6b00-be31-11eb-9701-bc50e90b9d17.png">
+  <img width=250 src="https://user-images.githubusercontent.com/22641582/119631304-63141b80-be2d-11eb-8560-4ce6e23416fd.png">
+  <img width=250 src="https://user-images.githubusercontent.com/22641582/119634844-c05d9c00-be30-11eb-9cc6-86dd8ded2215.png">
+  <img width=250 src="https://user-images.githubusercontent.com/22641582/119635376-3feb6b00-be31-11eb-9701-bc50e90b9d17.png">
   
 </p>
 
